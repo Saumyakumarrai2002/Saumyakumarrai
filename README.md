@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saumya Kumar Rai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="
+<img align="right" alt="coding" width="200" scr="
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2zAGr8HcMUBzUnOxHLl9dD&ust=1710772262251000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCbq7nB-4QDFQAAAAAdAAAAABAu">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyakumarrai2002&label=Profile%20views&color=0e75b6&style=flat" alt="saumyakumarrai2002" /> </p>
